@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MulvariateRandomForestVarImp"]
 	path = MulvariateRandomForestVarImp
 	url = https://github.com/megatvini/vim
-	shallow = true
-	registered = true
